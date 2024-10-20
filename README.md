@@ -2,7 +2,7 @@
 I'm Dhairya, a 3rd year Computer Science Engineer Undergraduate at IIIT-Delhi. I am passionate about AI/ML.
 
 ## 📫 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/dhairyakumar23c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/dhairyakumar23)
 [![Instagram](https://img.shields.io/badge/Instagram-pink)](https://instagram.com/dhairya_7._)
 
 ## 🚀 Tech Stack:
