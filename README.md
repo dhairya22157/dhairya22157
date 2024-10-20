@@ -1,4 +1,20 @@
-## Hi there 👋, I'm Dhairya
+# About Me:
+I'm Dhairya, a 3rd year Computer Science Engineer Undergraduate at at IIIT-Delhi. I am passionate about AI/ML.
+
+## 📫 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/dhairyakumar23c)
+[![Instagram](https://img.shields.io/badge/Instagram-pink)](https://instagram.com/dhairya_7._)
+
+## 🚀 Tech Stack:
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-00599C?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+
+## 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+
+
 
 <!--
 **dhairya22157/dhairya22157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
