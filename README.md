@@ -11,8 +11,6 @@ I'm Dhairya, a 3rd year Computer Science Engineer Undergraduate at at IIIT-Delhi
 ![Python](https://img.shields.io/badge/-Python-00599C?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 
-## 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
 
 
 
