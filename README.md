@@ -1,5 +1,10 @@
 # About Me:
-I'm Dhairya, a 3rd year Computer Science Engineer Undergraduate at IIIT-Delhi. I am passionate about AI/ML.
+Hi, I'm Dhairya 👋
+I'm a Computer Science undergraduate at IIIT Delhi, graduating in 2026. I enjoy building end-to-end AI systems and exploring the latest developments in Machine Learning, Deep Learning, and Generative AI.
+
+My experience includes projects in healthcare summarization, recommender systems, sentiment analysis, and LLM-powered applications. I'm particularly interested in Deep Learning, Natural Language Processing (NLP), Large Language Models (LLMs), MLOps, and scalable software development.
+
+I'm always excited to learn, build, and contribute to impactful AI-driven solutions.
 
 ## 📫 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/dhairyakumar23)
